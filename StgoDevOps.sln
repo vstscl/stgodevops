@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StgoDevOps", "StgoDevOps\StgoDevOps.csproj", "{BB3CEA69-E2D5-4709-8BFB-39E0D6B6DBBE}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "InfrasCode", "InfrasCode\InfrasCode.deployproj", "{B6A6BDC8-227D-4946-AF85-84CEAAE8C158}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "InfrasCode1", "InfrasCode1\InfrasCode1.deployproj", "{5C5168A8-66BE-4764-9285-3E50092693AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BB3CEA69-E2D5-4709-8BFB-39E0D6B6DBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3CEA69-E2D5-4709-8BFB-39E0D6B6DBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3CEA69-E2D5-4709-8BFB-39E0D6B6DBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A6BDC8-227D-4946-AF85-84CEAAE8C158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A6BDC8-227D-4946-AF85-84CEAAE8C158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A6BDC8-227D-4946-AF85-84CEAAE8C158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A6BDC8-227D-4946-AF85-84CEAAE8C158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5168A8-66BE-4764-9285-3E50092693AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5168A8-66BE-4764-9285-3E50092693AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5168A8-66BE-4764-9285-3E50092693AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5168A8-66BE-4764-9285-3E50092693AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
