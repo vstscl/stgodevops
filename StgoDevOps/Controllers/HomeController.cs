@@ -15,7 +15,7 @@ namespace StgoDevOps.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Hola a todos.";
+            ViewBag.Message = "Hola a todos nuevamente";
 
             return View();
         }
